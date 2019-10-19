@@ -3,8 +3,6 @@ mmmm
 
 somthing new h i
 
-<<<<<<< HEAD
 sommmmddddddddddddddd wai 
-=======
-this is related to some files oh yeah
->>>>>>> 4ab5ea98e15314530bef20ae8fc63c4ff4d575ff
+
+bonjour holla bonjurur
